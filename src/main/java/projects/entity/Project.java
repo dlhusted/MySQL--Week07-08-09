@@ -13,6 +13,7 @@ import java.util.List;
  */
 public class Project {
   private Integer projectId;
+  
   private String projectName;
   private BigDecimal estimatedHours;
   private BigDecimal actualHours;
